@@ -12,6 +12,7 @@
 ## Contém:
 - Sass;
 - Animações;
+- Gif;
 - Carouséis de imagens com função e plugins;
 - 100% responsivo.
 
