@@ -16,4 +16,4 @@
 - 100% responsivo.
 
 ## Captura de tela:
-<img src="https://i.ibb.co/WK97Xd8/127-0-0-1-5500-src-5.png" alt="127-0-0-1-5500-src-5" border="0">
+<img src="https://i.ibb.co/fQ1Nd9N/127-0-0-1-5500-src-6.png" alt="pag-vertigem" border="0">
